@@ -1,0 +1,7 @@
+2026-05-12 14:14:52.524366 --> Reserva creada correctamente.
+2026-05-12 14:15:20.169603 --> Reserva cancelada.
+2026-05-12 14:16:29.729129 --> ERROR: Correo electrónico inválido.
+2026-05-12 14:16:54.292020 --> ERROR: Correo electrónico inválido.
+2026-05-12 14:17:17.234028 --> ERROR: El teléfono solo debe contener números.
+2026-05-12 14:21:51.608583 --> Reserva creada correctamente.
+2026-05-12 14:22:33.954156 --> Reserva creada correctamente.
